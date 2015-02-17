@@ -16,7 +16,7 @@ Planned Features:
  - "chest T1 life, T1 %es"
  - "perfect roll facebreaker"
 
-2. Saved searches. If a player is looking for an upgrade for a 1h sword 250 pDPS. Then the player can saved search for "~250 pDPS 1h sword" that can be accessed easily on the side bar (or even make it as the default search result).
+2. Saved searches. If a player is looking for a 1h sword 250 pDPS frequently; Then the player can save a search for "~250 pDPS 1h sword". This 'saved search' can be accessed easily on the side bar (or even make it as the default search result).
 
 3. Price Check on CTRL+C. This was already done for maps and uniques via AHK script. However, there is potential to make it work with Rares. Idea is to have a configurable search params.
 
