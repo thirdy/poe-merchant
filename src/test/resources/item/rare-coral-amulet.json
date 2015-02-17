@@ -1,0 +1,48 @@
+{
+"_index": "rawanalysis",
+"_type": "items1",
+"_id": "AUthom6HqxvRNuDD37uP",
+"_version": 1,
+"_score": 1,
+"_source": {
+"0": 45,
+"1": {
+"corrupted": false,
+"typeLine": "Coral Amulet",
+"requirements": {
+"0": {
+"values": {
+"0": {
+"0": "61",
+"1": 0
+}
+},
+"name": "Level"
+}
+},
+"implicitMods": {
+"0": "3 Life Regenerated per second"
+},
+"league": "Torment",
+"explicitMods": {
+"0": "17% increased Cold Damage",
+"1": "+17 to maximum Mana",
+"2": "+46 to maximum Energy Shield",
+"3": "20% increased maximum Energy Shield",
+"4": "+5 Life gained on Kill"
+},
+"verified": false,
+"h": 1,
+"icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b143",
+"socketedItems": { },
+"identified": true,
+"w": 1,
+"name": "Beast Clasp",
+"lockedToCharacter": false,
+"frameType": 2,
+"sockets": { },
+"support": true
+},
+"2": { }
+}
+}
