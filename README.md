@@ -24,7 +24,14 @@ Planned Features:
 
 5. List of shops from guild members. Items from guildmembers are highlighted. A separate search tab for guild shops.
 
-6. QoL features like adding notes to items. Generating "Want to buy message" and copying that into the clipboard.
+6. Shortlist items so you can pick the best item from this short list.
+7. Generating multiple versions "Want to buy message" that is easilly copied into the clipboard. These messages are based on a configurable templates.
+8. Adding notes to items.
+9. A easy to use search form:
+ - Using toggle buttons for item bases instead of using combo boxes
+ - The list of affix choices are automatically filtered based on the based item selected
+
+
 
 Below is are screenshots of the first working prototype in action:
 
