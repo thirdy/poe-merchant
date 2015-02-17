@@ -31,3 +31,6 @@ Below is are screenshots of the first working prototype in action:
 <img src="https://raw.githubusercontent.com/thirdy/poe-merchant/master/screenshot/0.0.1-2nd-screenshot-without-pagination.PNG"></img>
 
 <img src="https://raw.githubusercontent.com/thirdy/poe-merchant/master/screenshot/0.0.1-2nd-screenshot-indexer.PNG"></img>
+
+Source code is licensed with GPL2.
+Note that this is a fan-made tool and is not affiliated with Grinding Gear Games in any way.
